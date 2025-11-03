@@ -24,9 +24,10 @@ Follow the pattern of blinking colors and test your memory as the sequence grows
 - **JavaScript** – Game logic and user interaction  
 
 ## 📂 Project Structure
-├── index.html # Main HTML file
-├── style.css # Game styling
-├── script.js # Game logic
-└── README.md # Project documentation
+├── index.html # Main HTML file <br>
+├── style.css # Game styling <br>
+├── script.js # Game logic <br>
+└── README.md # Project documentation <br>
+
 
 
